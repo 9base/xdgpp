@@ -1,3 +1,9 @@
+> **9base status: Preserved.** Preserved reference copy of the C++17 XDG Base Directory library. Provenance: [9base](https://github.com/9base/xdgpp) fork of the [WerWolv GitHub mirror](https://github.com/WerWolv/xdgpp), whose stated upstream is [Danyspin97 on SourceHut](https://git.sr.ht/~danyspin97/xdgpp). Before documentation curation, `master` exactly matched the mirror; no 9base-specific branch development was established. This copy is no longer maintained by 9base. Upstream usage, attribution and license information remains below.
+>
+> Documentation reconstructed from repository history on 8 October 2026.
+
+---
+
 # xdgpp
 
 [![builds.sr.ht status](https://builds.sr.ht/~danyspin97/xdgpp.svg)](https://builds.sr.ht/~danyspin97/xdgpp?)
